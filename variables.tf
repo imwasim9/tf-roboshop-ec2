@@ -1,5 +1,5 @@
 variable "sg_ids" {
-  default = "sg-008ae62dbb2c20da0"
+  default = "[sg-008ae62dbb2c20da0]"
 }
 
 variable "tags" {
